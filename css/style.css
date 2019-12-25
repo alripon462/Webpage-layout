@@ -1,0 +1,735 @@
+*{
+	margin: 0px;
+	padding: 0 px;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+body{
+
+}
+/* header start here*/
+header{
+	background-color: blue;
+}
+.logo{
+	width: 40%;
+	float: left;
+}
+.logo img{
+	padding: 15px;
+
+}
+.menu{
+	width: 60%;
+	float: left;
+}
+
+nav ul{
+	list-style: none;
+
+}
+nav li{
+	display:inline-block;
+	margin: 15px 30px;
+}
+nav ul li a{
+	color:white;
+	text-decoration: none;
+	font-size: 25px;
+}
+
+.header-banner{
+	width:550px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top:120px;
+
+}
+.header-banner h2{
+	color:white;
+	font-size: 20px;
+	padding-bottom:20px;
+}
+.btn{
+  background-color: orange;
+  padding:7px 10px;
+  margin-top:20px;
+  border: none;
+  color: white;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  box-shadow: 0 2 px black;
+}
+
+.service{
+	background-color: #00BCD4;
+	width: 100%;
+	padding: 20px 0px;
+	float: left;
+}
+
+.service-banner{
+	width:550px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top:50px;
+
+}
+.service-banner h1{
+	color:black;
+	text-align: center;
+	padding-bottom: 30px;
+	text-transform: uppercase;
+}
+.service-banner span{
+	border-bottom: 3px solid ;
+	background-color: black;
+	display:block;
+	width: 100px;
+	margin-left: 40%;
+	margin-bottom: 20px;
+}
+.service-banner p{
+	color: black;
+	text-align: center;
+	padding-bottom: 40px;
+}
+
+.service-one{
+	width:25%;
+	float:left;
+	margin:auto 0;
+	
+}
+.service-one img{
+	padding: 40px 70px 5px;
+}
+.service-one h1{
+	color:black;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.service-one p{
+	color: black;
+	text-align: center;
+	padding-right: 20px;
+	padding-bottom: 30px;
+
+}
+.service-two{
+	width:25%;
+	float:left;
+	margin:auto 0;
+	
+}
+.service-two img{
+	padding: 40px 70px 5px;
+}
+.service-two h1{
+	color:black;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+
+.service-two p{
+	color: black;
+	text-align: center;
+	padding-right: 20px;
+	padding-bottom: 30px;
+
+}
+.service-three{
+	width:25%;
+	float:left;
+	margin:auto 0;
+	
+}
+.service-three img{
+	padding: 40px 70px 5px;
+}
+.service-three h1{
+	color:black;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.service-three p{
+	color: black;
+	text-align: center;
+	padding-right: 20px;
+	padding-bottom: 30px;
+
+}
+.service-four{
+	width:25%;
+	float:left;
+	margin:auto 0;
+	
+}
+.service-four img{
+	padding: 40px 70px 5px;
+}
+.service-four h1{
+	color:black;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.service-four p{
+	color: black;
+	text-align: center;
+	padding-right: 20px;
+	padding-bottom: 30px;
+
+}
+/*team member*/
+.teammember{
+	background-color:gray ;
+	width: 100%;
+	float: left;
+}
+
+.teammember-banner{
+	width:550px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top:50px;
+}
+.teammember-banner h1{
+	color:black;
+	text-align: center;
+	padding-bottom: 30px;
+	text-transform: uppercase;
+}
+.teammember-banner span{
+	border-bottom: 3px solid ;
+	background-color: black;
+	display:block;
+	width: 100px;
+	margin-left: 40%;
+	margin-bottom: 20px
+}
+.teammember-banner p{
+	color: black;
+	text-align: center;
+	padding-bottom: 40px;
+	size: 20px;
+}
+
+.teammember-one{
+	width:25%;
+	float:left;
+	margin:auto 0;	
+}
+.teammember-one img{
+	height: 150px;
+	width:150px;
+	padding: 65px;
+	padding-bottom: 20px;
+}
+.teammember-one h1{
+	color:black;
+	text-align: center;
+	margin-bottom: 5px;
+}
+.teammember-one h2{
+	color:black;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.teammember-one p{
+	color: black;
+	text-align: center;
+	padding-right: 20px;
+	padding-bottom: 10px;
+
+}
+.teammember-one ul{
+	list-style: none;
+}
+.teammember-one ul li{
+	display:inline-block;
+
+}
+.teammember-one ul li a{
+	
+}
+
+.fa.fa-facebook{
+	background-color: blue; 
+	margin: 10px 20px;
+}
+.teammember-two{
+	width:25%;
+	float:left;
+	margin:auto 0;
+	
+}
+.teammember-two img{
+	height: 150px;
+	width:150px;
+	padding: 65px;
+	padding-bottom: 20px;
+}
+.teammember-two h1{
+	color:black;
+	text-align: center;
+	margin-bottom: 5px;
+}
+.teammember-two h2{
+	color:black;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.teammember-two p{
+	color: black;
+	text-align: center;
+	padding-left: 20px;
+	padding-bottom: 10px;
+
+
+}
+.teammember-three{
+	width:25%;
+	float:left;
+	margin:auto 0;
+	
+}
+.teammember-three img{
+	height: 150px;
+	width:150px;
+	padding: 65px;
+	padding-bottom: 20px;
+}
+.teammember-three h1{
+	color:black;
+	text-align: center;
+	margin-bottom: 5px;
+}
+.teammember-three h2{
+	color:black;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.teammember-three p{
+	color: black;
+	text-align: center;
+	padding-right: 20px;
+	padding-bottom: 10px;
+
+
+}
+.teammember-four{
+	width:25%;
+	float:left;
+	margin:auto 0;
+	
+}
+.teammember-four img{
+	height: 150px;
+	width:150px;
+	padding: 65px;
+	padding-bottom: 20px;
+}
+.teammember-four h1{
+	color:black;
+	text-align: center;
+	margin-bottom:5px;
+}
+.teammember-four h2{
+	color:black;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.teammember-four p{
+	color: black;
+	text-align: center;
+	padding-right: 20px;
+	padding-bottom: 10px;
+} 
+/*goal......*/
+.goalskill{
+	background-color: : white;
+	width: 100%;
+	float: left;
+}
+.portfolio{
+	background-color:#EFB8AC;
+	width:100%;
+	float: left;
+}
+.portfolio-banner{
+	width:550px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top:50px;
+}
+.portfolio-banner h1{
+	color:black;
+	text-align: center;
+	padding-bottom: 30px;
+	text-transform: uppercase;
+}
+.portfolio span{
+	border-bottom: 3px solid ;
+	background-color: black;
+	display:block;
+	width: 100px;
+	margin-left: 40%;
+	margin-bottom: 20px
+}
+.portfolio-banner p{
+	color: black;
+	text-align: center;
+	padding-bottom: 40px;
+	size: 20px;
+}
+.portfolio-banner ul {
+list-style: none;
+}
+.portfolio-banner ul li{
+display: inline-block;
+}
+.portfolio-banner btn{
+
+}
+
+
+.portfolio-one{
+	width:50%;
+	float:left;
+	margin:auto 0;	
+}
+.portfolio-one img{
+	padding: 50px 10px 20px 10px;
+}
+.portfolio-one h1{
+	color:black;
+	text-align: center;
+	margin-bottom: 5px;
+}
+.portfolio-one h2{
+	color:black;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.portfolio-one p{
+	color: black;
+	text-align: center;
+	padding-right: 20px;
+	padding-bottom: 10px;
+
+}
+.portfolio-one ul{
+	list-style: none;
+}
+
+.portfolio-two{
+	width:50%;
+	float:left;
+	margin:auto 0;
+	
+}
+.portfolio-two img{
+	padding: 50px 15px 20px 10px;
+}
+.portfolio-two h1{
+	color:black;
+	text-align: center;
+	margin-bottom: 5px;
+}
+.portfolio-two h2{
+	color:black;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.portfolio-two p{
+	color: black;
+	text-align: center;
+	padding-left: 20px;
+	padding-bottom: 10px;
+
+
+}
+.portfolio-three{
+	width:50%;
+	float:left;
+	margin:auto 0;
+	
+}
+.portfolio-three img{
+	padding: 50px 15px 20px 10px;
+}
+.portfolio-three h1{
+	color:black;
+	text-align: center;
+	margin-bottom: 5px;
+}
+.portfolio-three h2{
+	color:black;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.portfolio-three p{
+	color: black;
+	text-align: center;
+	padding-left: 25px;
+	
+
+
+}
+.portfolio-four{
+	width:50%;
+	float:left;
+	margin:auto 0;
+	
+}
+.portfolio-four img{
+	padding: 50px 15px 20px 10px;
+}
+.portfolio-four h1{
+	color:black;
+	text-align: center;
+	margin-bottom:5px;
+}
+.portfolio-four h2{
+	color:black;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.portfolio-four p{
+	color: black;
+	text-align: center;
+	padding-right: 20px;
+	padding-bottom: 10px;
+} 
+.portfolio btn{
+	margin: 50%;
+}
+/*about us*/
+.aboutus{
+	background-color:#0DD50A ;
+	width: 100%;
+	float: left;
+}
+.aboutus-banner{
+	width:550px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top:50px;
+}
+.aboutus-banner h1{
+	color:black;
+	text-align: center;
+	padding-bottom: 30px;
+	text-transform: uppercase;
+}
+.aboutus-banner span{
+	border-bottom: 3px solid ;
+	background-color: black;
+	display:block;
+	width: 100px;
+	margin-left: 40%;
+	margin-bottom: 20px
+}
+.aboutus-banner p{
+	color: black;
+	text-align: center;
+	padding-bottom: 40px;
+	size: 20px;
+}
+
+.aboutus-one{
+	width:50%;
+	float:left;
+}
+.aboutus-one img{
+	width: 50%;
+	height: 150px;
+	width:150px;
+}
+.aboutus-one h1{
+	color:black;
+	text-align: center;
+	margin-bottom: 5px;
+}
+.aboutus-one h2{
+	color:black;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.aboutus-one p{
+	color: black;
+	text-align: center;
+	padding-right: 20px;
+	padding-bottom: 10px;
+
+}
+
+.aboutus-two{
+	width:50%;
+	float:left;
+	margin:auto 0;
+	
+}
+.aboutus-two img{
+	height: 150px;
+	width:150px;
+}
+.aboutus-two h1{
+	color:black;
+	text-align: center;
+	margin-bottom: 5px;
+}
+.aboutus-two h2{
+	color:black;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.aboutus-two p{
+	color: black;
+	text-align: center;
+	padding-left: 20px;
+	padding-bottom: 10px;
+
+
+}
+.aboutus-three{
+	width:50%;
+	float:left;
+	margin:auto 0;
+	
+}
+.aboutus-three img{
+	height: 150px;
+	width:150px;
+	
+}
+.aboutus-three h1{
+	color:black;
+	text-align: center;
+	margin-bottom: 5px;
+}
+.aboutus-three h2{
+	color:black;
+	text-align: justify;
+	margin-bottom:5px;
+}
+
+.aboutus-three p{
+	color: black;
+	text-align: center;
+	padding-right: 20px;
+	padding-bottom: 10px;
+
+
+}
+.aboutus-four{
+	width:50%;
+	float:left;
+	margin:auto 0;
+	
+}
+.aboutus-four img{
+	height: 150px;
+	width:150px;
+}
+.aboutus-four h1{
+	color:black;
+	text-align: justify;
+	margin-bottom:5px;
+}
+.aboutus-four h2{
+	color:black;
+	text-align:left;
+	margin-bottom: 20px;
+}
+.aboutusr-four p{
+	color: black;
+	text-align: center;
+	padding-right: 20px;
+	padding-bottom: 10px;
+} 
+.tuch{
+	width: 100%;
+	float: left;
+	background-color: #C17BC8;
+}
+.tuch-banner{
+	width:550px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top:50px;
+}
+.tuch-banner h1{
+	color:black;
+	text-align: center;
+	padding-bottom: 30px;
+	text-transform: uppercase;
+}
+.tuch-banner span{
+	border-bottom: 3px solid ;
+	background-color: black;
+	display:block;
+	width: 100px;
+	margin-left: 40%;
+	margin-bottom: 20px
+}
+.tuch-banner p{
+	color: black;
+	text-align: center;
+	padding-bottom: 40px;
+	size: 20px;
+}
+.form-contact{
+	width: 650px;
+	margin: 0 auto;
+
+}
+.control{
+	width:45%;
+	float: left;
+	padding:5 px ;
+	height: 25px;
+	margin-right: 8px;
+
+}
+.textarea{
+	width: 92%!important;
+	padding: 1px;
+	height: 100px !important;
+	margin-bottom: 20px;
+
+}
+footer{
+	width: 100%;
+	float: left;
+}
+.webfooter{
+	background-color: orange;
+	width:100%; 
+	height: 100px
+}
+.webfooter ul{
+	list-style: none;
+}
+.webfooter ul li{
+	display: inline-block;
+	margin: 50px 50px;
+}
+.webfooter ul a{
+	font-color: white;
+
+}
