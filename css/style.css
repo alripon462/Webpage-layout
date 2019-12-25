@@ -731,5 +731,6 @@ footer{
 }
 .webfooter ul a{
 	font-color: white;
+	text-decoration: none;
 
 }
